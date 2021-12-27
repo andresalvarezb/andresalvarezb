@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresalvarezb&show_icons=true&locale=en" alt="andresalvarezb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresalvarezb&" alt="andresalvarezb" /></p>
+
+<figure><embed src="https://wakatime.com/share/@andresalvarezb/7cbc2af9-7a60-421f-aa07-51dc8941ea75.svg"></embed></figure>
